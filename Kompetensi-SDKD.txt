@@ -1,0 +1,5 @@
+Kompetensi dasar
+A.komunikasi daring sinkron
+ - Line
+B.komunikasi daring asinkron
+ - Email
