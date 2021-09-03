@@ -1,5 +1,7 @@
-Kompetensi dasar
-A.komunikasi daring sinkron
- - Line
-B.komunikasi daring asinkron
- - Email
+Kompetensi  SDKD
+A.Komunikasi daring sinkron
+ - line
+B.komunikasi dasar asinkron
+ - email
+C.github
+D.git
