@@ -1,5 +1,5 @@
-Kompetensi SDKD
+Kompetensi dasar
 A.komunikasi daring sinkron
+ - Line
 B.komunikasi daring asinkron
-C.github
-D.git
+ - Email
